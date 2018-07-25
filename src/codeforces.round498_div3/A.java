@@ -1,4 +1,4 @@
-package round498_div3;
+package codeforces.round498_div3;
 
 import java.io.*;
 import java.util.StringTokenizer;
