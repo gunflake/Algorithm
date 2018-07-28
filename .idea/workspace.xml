@@ -2,145 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d5a6595-f36c-4cb6-9e64-6581d6ae7089" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/P855.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/ArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/BasicInputCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/BestSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Caesar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/CatchFish_X7573.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Cheese_o2638.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/ChooseCity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Divisor_o2501.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Divisor_o9506.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Expressions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/FindLargestSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/FindLargestSquare_DP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Hopscotch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/HowToCarrySugar_o2839.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/LineCombination.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/MakeTriangle_X2622.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/MazeSearch_BFS_O2178.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/MoleTunnel_BFS_O2667.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/MoleTunnel_DFS_O2667.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/NLCM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/N_Queen_DFS_O9663.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/NextBigNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/NoOvertime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/O10818.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/O2562.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Omok_O2615.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/OneTwoFour.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/P1220_ Magnetic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/P123.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/P13460.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/P15683.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/P2112.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/P2383.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/P2806.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/P3131.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/P4013.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/PickUpNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/PickedElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Poketmon_O1620.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Reverse_x5648.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Star5_o2442.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Star6_o2443.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Star7_o2444.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Star8_o2445.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Star9_o2446.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/SuprisePrime_o2023_BruteForce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/SuprisePrime_o2023_DFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/TFS_O10971_DFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Tec.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Text.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/Tiling2N.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d13_10250.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d13_1475.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d13_2775.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d14_1918.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d15_2504.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d18_13900.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d1_10039.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d1_1193.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d1_2292.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d1_2920.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d20_11052.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d21_10809.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d21_10844.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d21_11057.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d21_1152.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d21_1157.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d21_11654.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d21_1316.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d21_2156.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d21_2193.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d21_2675.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d21_2908.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d21_2941.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d21_5622.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d23_1149.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d23_1932.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d25_1110.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d25_1924.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d25_1stStep.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d25_2ndStep.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d25_3rdStep.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d25_4344.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d26_1065.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d26_4673.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/d2_10828.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/ArrayCircularQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/ArrayQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/ArrayStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/BTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/BTreeMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/BTreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/DequeLinked.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/DequeLinkedMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/Heap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/HeapMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/LinkedQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/LinkedStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/MainArrayCircularQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/MainArrayQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/MainArrayStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/MainLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/MainLinkedQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/dataStructure/MainLinkedStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/kakao/P1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/kakao/P2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/kakao/P3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/kakao/P5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/kakao/P5_hash.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/nhn/P1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/nhn/P2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/nhn/P3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/nhn/P5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o1002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o11048.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o11066.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o11726.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o14612.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o14612_class.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o1463.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o1764.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o1920.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o1921_hash.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o2133.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o2225.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o2309.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o2579.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o2667.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.01~18.06/o9095.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces.round498_div3/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces.round498_div3/B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces.round498_div3/B_upgrade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces.round498_div3/C.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces.round498_div3/D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/P855.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/P855.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -173,8 +35,8 @@
       <file leaf-file-name="P855.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/leetcode/P855.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -221,6 +83,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -245,7 +108,6 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,11 +219,12 @@
       <updated>1532511986013</updated>
       <workItem from="1532511987515" duration="711000" />
       <workItem from="1532558212672" duration="3791000" />
+      <workItem from="1532753750938" duration="1802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4502000" />
+    <option name="totallyTimeSpent" value="6304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -377,11 +240,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -405,10 +268,39 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/P855.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/codeforces/round498_div3/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/round498_div3/D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/P855.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/codeforces/round498_div3/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -440,8 +332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/P855.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
