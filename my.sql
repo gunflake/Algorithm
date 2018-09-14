@@ -1,3 +1,5 @@
+
+
 CREATE PROCEDURE RECORDSET
 
 @pi_intAccountNo            INT,
@@ -43,7 +45,7 @@ END
 SET @v_strSql = ''
 SET @v_strSql = @v_strSql + N'
     SELECT  @po_intRecordCnt = COUNT(*)
-    FROM    DEALINFO 
+    FROM    DEALINFO WITH(NOLOCK)
     WHERE   1 = 1 '
 SET @v_strSql = @v_strSql + @v_strSqlWhere 
 
@@ -64,9 +66,23 @@ SET ROWCOUNT @pi_intPageSize
 
 SET @v_strSql = ''
 SET @v_strSql = @v_strSql + N'
-    SELECT  * FROM DEALINFO
+    WITH ABC AS (
+
+    SELECT   DEALNO
+            ,ACCOUNTNO
+            ,BANKCODE
+            ,DEALDATE
+            ,DEALSTATE
+            ,DEALHELP
+            ,DEALMONEY
+            ,BALANCE
+            ,ROW_NUMBER() OVER ( ORDER BY DEALNO ASC) AS ROWNUM
+    FROM DEALINFO WITH(NOLOCK)
     WHERE   1 = 1 '
 SET @v_strSql = @v_strSql + @v_strSqlWhere
+SET @v_strSql = @v_strSql + N'
+    ) '
+SET @v_strSql = @v_strSql + N'SELECT * FROM ABC WHERE ROWNUM >= '+CAST(@v_intStartRow AS VARCHAR) + ' ORDER BY ROWNUM'
 
 
 EXEC SP_EXECUTESQL @v_strSql
@@ -83,5 +99,7 @@ RETURN
 
 GO
 DECLARE @po_intRecordCount INT
-EXEC RECORDSET 3001, 'B03', 10, 1, @po_intRecordCount
+EXEC RECORDSET 2001, 'B02', 10, 3, @po_intRecordCount
 PRINT @po_intRecordCount
+
+SELECT * FROM DEALINFO WHERE ACCOUNTNO = 2001 AND BANKCODE = 'B02'
